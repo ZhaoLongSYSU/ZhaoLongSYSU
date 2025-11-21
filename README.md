@@ -38,8 +38,6 @@
 <tr>
 <td width="60%">
 
-### 👨‍🔬 About Me
-
 <p>Hi there! I am Zhaolong, a graduate student at Sun Yat-sen University.</p>
 <p>I am dedicated to decoding the mysteries of life sciences through Computational Methods.</p>
 <p>My primary research interests include:</p>

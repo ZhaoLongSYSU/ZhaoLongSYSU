@@ -78,7 +78,7 @@
 </table>
 
 <!-- Row 2: Core Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=ZhaoLongSYSU&show_icons=true&theme=radical&count_private=true&hide_border=true&include_all_commits=true&custom_title=GitHub%20Research%20Contributions" width="70%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ZhaoLongSYSU&show_icons=true&theme=radical&count_private=true&hide_border=true&include_all_commits=true&custom_title=GitHub%20Research%20Contributions" width="85%" />
 
 </div>
 

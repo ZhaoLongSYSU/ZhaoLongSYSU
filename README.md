@@ -1,9 +1,9 @@
 <div align="center">
 
-<!-- 1. 动态打字机 Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello,+I'm+Zhaolong;SYSU+Student+%7C+CompBio+Researcher;Focusing+on+AIDD+%26+Single-cell;Coding+for+Life+Sciences!&center=true&size=27&color=005826)](https://git.io/typing-svg)
+<!-- 1. Header: Typing Text (Updated) -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+I'm+Zhaolong.;Welcome+to+my+repository!&center=true&size=27&color=005826)](https://git.io/typing-svg)
 
-<!-- 2. 核心形象图 (这里使用了通用的科研/编程动态图) -->
+<!-- 2. Core Image (Coding Animation) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />
   <source media="(prefers-color-scheme: light)" srcset="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />
@@ -12,18 +12,18 @@
 
 <div>&nbsp;</div>
 
-<!-- 3. 社交徽章 (SYSU Green & CSDN Orange) -->
+<!-- 3. Social Badges (English) -->
 <div>
-  <a href="mailto:zhaolong7@mail2.sysu.edu.cn"><img src="https://img.shields.io/badge/Email-邮件联系-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>&emsp;
-  <a href="https://blog.csdn.net/weixin_70379932?type=blog"><img src="https://img.shields.io/badge/CSDN-我的博客-FC5531?style=flat-square&logo=rss&logoColor=white" /></a>&emsp;
-  <a href="https://github.com/zhaolong"><img src="https://img.shields.io/badge/GitHub-项目主页-181717?style=flat-square&logo=github&logoColor=white" /></a>&emsp;
-  <a href="https://www.sysu.edu.cn/"><img src="https://img.shields.io/badge/SYSU-中山大学-005826?style=flat-square&logo=google-scholar&logoColor=white" /></a>
+  <a href="mailto:zhaolong7@mail2.sysu.edu.cn"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>&emsp;
+  <a href="https://blog.csdn.net/weixin_70379932?type=blog"><img src="https://img.shields.io/badge/CSDN-My_Blog-FC5531?style=flat-square&logo=rss&logoColor=white" /></a>&emsp;
+  <a href="https://github.com/zhaolong"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" /></a>&emsp;
+  <a href="https://www.sysu.edu.cn/"><img src="https://img.shields.io/badge/SYSU-Sun_Yat--sen_Univ-005826?style=flat-square&logo=google-scholar&logoColor=white" /></a>
   
-  <!-- 访问量统计 -->
-  <img src="https://komarev.com/ghpvc/?username=zhaolong&label=Visitors&color=005826&style=flat" alt="访问量统计" />
+  <!-- Visitor Counter -->
+  <img src="https://komarev.com/ghpvc/?username=zhaolong&label=Visitors&color=005826&style=flat" alt="Visitor Count" />
 </div>
 
-<!-- 4. 贪吃蛇贡献图 (注意：这通常需要配置GitHub Action才能生成，这里先放静态占位或通用API) -->
+<!-- 4. Snake Contribution Graph (Placeholder) -->
 <br/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
@@ -33,7 +33,7 @@
 
 </div>
 
-<!-- 5. 个人介绍区 (表格布局) -->
+<!-- 5. Profile Section (English) -->
 # 🧬 Researcher Profile
 
 <table>
@@ -42,32 +42,32 @@
 
 ### 👨‍🔬 About Me
 
-<p>&emsp;&emsp;你好！我是 **Zhaolong**，一名来自 **中山大学 (SYSU)** 的研究生。</p>
-<p>&emsp;&emsp;致力于通过 **计算方法 (Computational Methods)** 解码生命科学的奥秘。</p>
-<p>&emsp;&emsp;主要研究方向包括：</p>
+<p>&emsp;&emsp;Hi there! I am **Zhaolong**, a graduate student at **Sun Yat-sen University (SYSU)**.</p>
+<p>&emsp;&emsp;I am dedicated to decoding the mysteries of life sciences through **Computational Methods**.</p>
+<p>&emsp;&emsp;My primary research interests include:</p>
 <ul>
-  <li>💊 <b>AIDD (AI Drug Discovery)</b>: 利用深度学习加速药物发现。</li>
-  <li>🧬 <b>Single-cell Genomics</b>: 单细胞数据分析与算法开发。</li>
+  <li>💊 <b>AIDD (AI Drug Discovery)</b>: Leveraging deep learning to accelerate drug design.</li>
+  <li>🧬 <b>Single-cell Genomics</b>: Algorithms and data analysis for single-cell sequencing.</li>
 </ul>
 <p>&emsp;&emsp;<strong>"Data is the new microscope for biology."</strong></p>
 
 </td>
 <td width="40%" align="center">
-<!-- 右侧图片：这里放一个DNA或分子的动态图会很酷 -->
-<img src="https://media.giphy.com/media/26FL0i871a8zT8tTq/giphy.gif" width="80%" style="border-radius:10px;" />
+<!-- Fixed Image: DNA Helix Animation -->
+<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="80%" style="border-radius:10px;" alt="DNA Animation" />
 </td>
 </tr>
 </table>
 
-<!-- 分割线 GIF -->
+<!-- Divider GIF -->
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- 6. 统计信息仪表盘 (模仿参考案例的布局) -->
+<!-- 6. Scientific Metrics (English & Cleaned) -->
 <div align="center">
 
 ### 📊 Scientific Metrics
 
-<!-- 第一行：Streaks 和 语言卡片 -->
+<!-- Row 1: Streaks and Top Langs -->
 <table>
   <tr>
     <td>
@@ -79,31 +79,27 @@
   </tr>
 </table>
 
-<!-- 第二行：核心数据 -->
+<!-- Row 2: Core Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=zhaolong&show_icons=true&theme=radical&count_private=true&hide_border=true&include_all_commits=true&custom_title=GitHub%20Research%20Contributions" width="85%" />
-
-<!-- 第三行：奖杯墙 (Trophies) -->
-<br/>
-<img src="https://github-profile-trophy.vercel.app/?username=zhaolong&theme=radical&row=1&column=7&no-frame=true&no-bg=true" />
 
 </div>
 
-<!-- 分割线 GIF -->
+<!-- Divider GIF -->
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- 7. 技术栈与工具 (Arsenal) -->
+<!-- 7. Tech Stack (Arsenal) -->
 <div align="center">
 
 ### 🛠️ Computational Arsenal
 
-<!-- 第一组：动态技能图标 (使用 skillicons) -->
+<!-- Skill Icons -->
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=python,r,linux,docker,git,pytorch,tensorflow,bash,vim,vscode,md,latex&perline=12" />
 </a>
 
 <br/><br/>
 
-<!-- 第二组：详细徽章 (仿参考案例的密集排列) -->
+<!-- Detailed Badges -->
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R_Statistics-276DC3?style=flat-square&logo=r&logoColor=white)
 ![Biopython](https://img.shields.io/badge/Biopython-FCC624?style=flat-square&logo=python&logoColor=black)
@@ -118,7 +114,7 @@
 
 <br/>
 
-<!-- 8. 底部 Footer -->
+<!-- 8. Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=005826&height=100&section=footer" width="100%" />
   <sub>Designed for Scientific Discovery • © 2025 Zhaolong</sub>

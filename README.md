@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- 1. Header: Typing Text (Updated) -->
+<!-- 1. Header: Typing Text -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+I'm+Zhaolong.;Welcome+to+my+repository!&center=true&size=27&color=005826)](https://git.io/typing-svg)
 
 <!-- 2. Core Image (Coding Animation) -->
@@ -12,16 +12,19 @@
 
 <div>&nbsp;</div>
 
-<!-- 3. Social Badges (English) -->
+<!-- 3. Social Badges -->
 <div>
   <a href="mailto:zhaolong7@mail2.sysu.edu.cn"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>&emsp;
   <a href="https://blog.csdn.net/weixin_70379932?type=blog"><img src="https://img.shields.io/badge/CSDN-My_Blog-FC5531?style=flat-square&logo=rss&logoColor=white" /></a>&emsp;
   <a href="https://github.com/ZhaoLongSYSU"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" /></a>&emsp;
   <a href="https://www.sysu.edu.cn/"><img src="https://img.shields.io/badge/SYSU-Sun_Yat--sen_Univ-005826?style=flat-square&logo=google-scholar&logoColor=white" /></a>
   
+  <!-- Visitor Counter (Updated to ZhaoLongSYSU) -->
+  <img src="https://komarev.com/ghpvc/?username=ZhaoLongSYSU&label=Visitors&color=005826&style=flat" alt="Visitor Count" />
 </div>
 
 <!-- 4. Snake Contribution Graph (Placeholder) -->
+<!-- Note: This snake graph requires a GitHub Action to update with your real data. Currently showing a demo. -->
 <br/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
@@ -31,8 +34,8 @@
 
 </div>
 
-<!-- 5. Profile Section (English) -->
-
+<!-- 5. Profile Section -->
+# 🧬 Researcher Profile
 
 <table>
 <tr>
@@ -40,8 +43,8 @@
 
 ### 👨‍🔬 About Me
 
-<p>&emsp;&emsp;Hi there! I am Zhaolong, a graduate student at Sun Yat-sen University.</p>
-<p>&emsp;&emsp;I am dedicated to decoding the mysteries of life sciences through Computational Methods.</p>
+<p>&emsp;&emsp;Hi there! I am **Zhaolong**, a graduate student at **Sun Yat-sen University**.</p>
+<p>&emsp;&emsp;I am dedicated to decoding the mysteries of life sciences through **Computational Methods**.</p>
 <p>&emsp;&emsp;My primary research interests include:</p>
 <ul>
   <li>💊 <b>AIDD (AI Drug Discovery)</b>: Leveraging deep learning to accelerate drug design.</li>
@@ -51,7 +54,7 @@
 
 </td>
 <td width="40%" align="center">
-<!-- Fixed Image: DNA Helix Animation -->
+<!-- DNA Helix Animation -->
 <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="80%" style="border-radius:10px;" alt="DNA Animation" />
 </td>
 </tr>
@@ -60,25 +63,25 @@
 <!-- Divider GIF -->
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- 6. Scientific Metrics (English & Cleaned) -->
+<!-- 6. Scientific Metrics (Updated to ZhaoLongSYSU) -->
 <div align="center">
 
-
+### 📊 Scientific Metrics
 
 <!-- Row 1: Streaks and Top Langs -->
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=zhaolong&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZhaoLongSYSU&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhaolong&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Langs" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhaoLongSYSU&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Langs" />
     </td>
   </tr>
 </table>
 
 <!-- Row 2: Core Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=zhaolong&show_icons=true&theme=radical&count_private=true&hide_border=true&include_all_commits=true&custom_title=GitHub%20Research%20Contributions" width="85%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ZhaoLongSYSU&show_icons=true&theme=radical&count_private=true&hide_border=true&include_all_commits=true&custom_title=GitHub%20Research%20Contributions" width="85%" />
 
 </div>
 
@@ -88,6 +91,7 @@
 <!-- 7. Tech Stack (Arsenal) -->
 <div align="center">
 
+### 🛠️ Computational Arsenal
 
 <!-- Skill Icons -->
 <a href="https://skillicons.dev">

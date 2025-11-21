@@ -6,11 +6,10 @@
 
   <!-- 动态打字效果：轮播你的身份和研究方向 -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=005826&center=true&vCenter=true&width=600&lines=Student+at+Sun+Yat-sen+University;Focusing+on+AIDD+%26+CompBio+Decoding+Single-cell+Genomics;Welcome+to+my+repo!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=005826&center=true&vCenter=true&width=600&lines=Welcome+to+my+repo!" alt="Typing SVG" />
   </a>
 </div>
 
----
 
 > *"Data is the new microscope for biology."*
 
@@ -22,7 +21,6 @@ I am a student at **Sun Yat-sen University (SYSU)**, passionate about the inters
 - 🔬 **Current Focus**: **Single-cell Genomics** (scRNA-seq analysis, heterogeneity decoding).
 - 📝 **Knowledge Sharing**: I document my learning journey and technical solutions on **CSDN**.
 
----
 
 <div align="center">
   <!-- 编程语言 -->
@@ -57,7 +55,6 @@ I am a student at **Sun Yat-sen University (SYSU)**, passionate about the inters
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=zhaolong&theme=radical&hide_border=true" width="60%" />
 </div>
 
----
 
 <div align="center">
   <!-- 邮箱 -->

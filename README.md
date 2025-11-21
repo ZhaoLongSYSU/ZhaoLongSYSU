@@ -6,13 +6,11 @@
 
   <!-- 动态打字效果：轮播你的身份和研究方向 -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=005826&center=true&vCenter=true&width=600&lines=Student+at+Sun+Yat-sen+University;Focusing+on+AIDD+%26+CompBio;Decoding+Single-cell+Genomics;Welcome+to+my+repo!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=005826&center=true&vCenter=true&width=600&lines=Student+at+Sun+Yat-sen+University;Focusing+on+AIDD+%26+CompBio+Decoding+Single-cell+Genomics;Welcome+to+my+repo!" alt="Typing SVG" />
   </a>
 </div>
 
 ---
-
-### 🧬 About Me
 
 > *"Data is the new microscope for biology."*
 
@@ -25,8 +23,6 @@ I am a student at **Sun Yat-sen University (SYSU)**, passionate about the inters
 - 📝 **Knowledge Sharing**: I document my learning journey and technical solutions on **CSDN**.
 
 ---
-
-### 🛠️ Tech Stack & Tools
 
 <div align="center">
   <!-- 编程语言 -->
@@ -46,8 +42,6 @@ I am a student at **Sun Yat-sen University (SYSU)**, passionate about the inters
 
 ---
 
-### 📊 GitHub Analytics
-
 <div align="center">
   <!-- 核心数据卡片 - 使用 radical 主题，视觉冲击力强 -->
   <img src="https://github-readme-stats.vercel.app/api?username=zhaolong&show_icons=true&theme=radical&count_private=true&hide_border=true&include_all_commits=true" height="160" />
@@ -64,8 +58,6 @@ I am a student at **Sun Yat-sen University (SYSU)**, passionate about the inters
 </div>
 
 ---
-
-### 📫 Connect with Me
 
 <div align="center">
   <!-- 邮箱 -->

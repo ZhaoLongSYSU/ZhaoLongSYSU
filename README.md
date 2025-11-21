@@ -18,9 +18,7 @@
   <a href="https://blog.csdn.net/weixin_70379932?type=blog"><img src="https://img.shields.io/badge/CSDN-My_Blog-FC5531?style=flat-square&logo=rss&logoColor=white" /></a>&emsp;
   <a href="https://github.com/ZhaoLongSYSU"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" /></a>&emsp;
   <a href="https://www.sysu.edu.cn/"><img src="https://img.shields.io/badge/SYSU-Sun_Yat--sen_Univ-005826?style=flat-square&logo=google-scholar&logoColor=white" /></a>
-  
-  <!-- Visitor Counter (Updated to ZhaoLongSYSU) -->
-  <img src="https://komarev.com/ghpvc/?username=ZhaoLongSYSU&label=Visitors&color=005826&style=flat" alt="Visitor Count" />
+
 </div>
 
 <!-- 4. Snake Contribution Graph (Placeholder) -->
@@ -35,7 +33,6 @@
 </div>
 
 <!-- 5. Profile Section -->
-# 🧬 Researcher Profile
 
 <table>
 <tr>
@@ -43,14 +40,14 @@
 
 ### 👨‍🔬 About Me
 
-<p>&emsp;&emsp;Hi there! I am **Zhaolong**, a graduate student at **Sun Yat-sen University**.</p>
-<p>&emsp;&emsp;I am dedicated to decoding the mysteries of life sciences through **Computational Methods**.</p>
-<p>&emsp;&emsp;My primary research interests include:</p>
+<p>Hi there! I am Zhaolong, a graduate student at Sun Yat-sen University.</p>
+<p>I am dedicated to decoding the mysteries of life sciences through Computational Methods.</p>
+<p>My primary research interests include:</p>
 <ul>
   <li>💊 <b>AIDD (AI Drug Discovery)</b>: Leveraging deep learning to accelerate drug design.</li>
   <li>🧬 <b>Single-cell Genomics</b>: Algorithms and data analysis for single-cell sequencing.</li>
 </ul>
-<p>&emsp;&emsp;<strong>"Data is the new microscope for biology."</strong></p>
+<p><strong>"Data is the new microscope for biology."</strong></p>
 
 </td>
 <td width="40%" align="center">
@@ -66,7 +63,6 @@
 <!-- 6. Scientific Metrics (Updated to ZhaoLongSYSU) -->
 <div align="center">
 
-### 📊 Scientific Metrics
 
 <!-- Row 1: Streaks and Top Langs -->
 <table>
@@ -91,7 +87,6 @@
 <!-- 7. Tech Stack (Arsenal) -->
 <div align="center">
 
-### 🛠️ Computational Arsenal
 
 <!-- Skill Icons -->
 <a href="https://skillicons.dev">

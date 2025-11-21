@@ -1,109 +1,86 @@
-<!-- GitHub Profile README -->
+<!-- Header: 使用中山大学绿配色的动态波浪 -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=005826&height=220&section=header&text=Hello!%20I'm%20Zhaolong&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Exploring%20Life%20with%20Algorithms&descAlignY=60&descSize=20&fontColor=ffffff" alt="Header" />
+  
+  <br/>
 
-<h1 align="center">Hi there 👋</h1>
-
-<p align="center">
-  <b>Student at Sun Yat-sen University · AIDD & Computational Biology</b>
-</p>
-
-<p align="center">
-  <i>AI-driven drug discovery, single-cell genomics, and beyond.</i>
-</p>
-
----
-
-## 👨‍🔬 About Me / 关于我
-
-- 🎓 我是中山大学的一名学生，目前从事 <b>AIDD（AI 辅助药物发现）</b> 与 <b>计算生物学</b> 相关研究  
-- 🧬 目前主要聚焦于 <b>单细胞基因组学</b> 等方向，对多组学整合与复杂疾病机制感兴趣  
-- 🔍 喜欢把机器学习 / 深度学习方法应用到真实的生物医学问题中  
-- 💡 对科研工程化、科研工具开发以及 reproducible research 有持续兴趣  
-
-> I am a student at Sun Yat-sen University, focusing on AI-driven drug discovery (AIDD) and computational biology, especially single-cell genomics.
+  <!-- 动态打字效果：轮播你的身份和研究方向 -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=005826&center=true&vCenter=true&width=600&lines=Student+at+Sun+Yat-sen+University;Focusing+on+AIDD+%26+CompBio;Decoding+Single-cell+Genomics;Welcome+to+my+repo!" alt="Typing SVG" />
+  </a>
+</div>
 
 ---
 
-## 🧠 Research Interests / 研究兴趣
+### 🧬 About Me
 
-- 🧬 单细胞基因组学（single-cell genomics）
-- 💊 AI 辅助药物发现（AI-driven drug discovery, AIDD）
-- 🧫 计算生物学与生物信息学（computational biology & bioinformatics）
-- 🧮 机器学习 / 深度学习在生物医学数据中的应用
-- 📊 多组学数据分析与整合（multi-omics integration）
+> *"Data is the new microscope for biology."*
 
----
+I am a student at **Sun Yat-sen University (SYSU)**, passionate about the intersection of computer science and life sciences.
 
-## 🔧 Skills & Tools / 技能与工具
-
-> 根据你的实际情况补充 / 修改下面内容（语言、库、软件等）  
-
-**Programming & Data Analysis**
-
-- 这里写你的编程语言，例如：`Python` · `R` · `SQL` · `Bash` 等  
-- 可补充：`NumPy` · `Pandas` · `scikit-learn` · `PyTorch` / `TensorFlow` …
-
-**Bioinformatics & Omics**
-
-- 这里写你常用的分析方向或工具，例如：  
-  - 单细胞 RNA-seq / ATAC-seq 数据分析  
-  - 基因表达谱分析 / 差异表达分析  
-  - 生物信息学常用工具（如：`Seurat`、`Scanpy`、`Bioconductor` 等）
-
-**Others**
-
-- 版本管理与协作：`Git` · `GitHub`  
-- 科研与文档：`LaTeX` · 文献管理工具（如 Zotero / EndNote 等）
+- 🔭 **Primary Research**: 
+  - **AIDD** (AI Drug Discovery): Leveraging deep learning to accelerate drug design.
+  - **Computational Biology**: Understanding biological systems through data.
+- 🔬 **Current Focus**: **Single-cell Genomics** (scRNA-seq analysis, heterogeneity decoding).
+- 📝 **Knowledge Sharing**: I document my learning journey and technical solutions on **CSDN**.
 
 ---
 
-## 📂 Selected Projects / 部分项目
+### 🛠️ Tech Stack & Tools
 
-> 建议挑 3～5 个能代表你在 AIDD / 计算生物 / 单细胞分析方向的项目，下面是一个可供修改的示例结构。
-
-- [**Project Name 1**](https://github.com/yourname/your-project-1)  
-  简要描述：例如「一个用于单细胞 RNA-seq 数据预处理与可视化的分析流程」。  
-  关键词：`single-cell` · `RNA-seq` · `pipeline`
-
-- [**Project Name 2**](https://github.com/yourname/your-project-2)  
-  简要描述：例如「基于深度学习的化合物性质预测模型，用于 AIDD 场景」。  
-  关键词：`AIDD` · `QSAR` · `deep learning`
-
-- [**Project Name 3**](https://github.com/yourname/your-project-3)  
-  简要描述：例如「用于多组学数据整合与可视化的小工具 / 包」。  
-  关键词：`multi-omics` · `integration` · `visualization`
-
-> 把上面的项目名和描述替换成你真实的仓库：项目名字清晰 + 一句话讲清「做了什么 / 有什么用」。
-
----
-
-## 📄 Publications & Preprints / 论文与预印本（如有）
-
-> 如果暂时还没有，可以先留着这个板块，之后有成果直接补上。
-
-- *Title of the paper or preprint*  
-  <i>Authors</i> · Journal / arXiv / bioRxiv, Year  
-  [[Link]](https://example.com)
+<div align="center">
+  <!-- 编程语言 -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  
+  <br/>
+  
+  <!-- 领域特定工具/框架 -->
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Biopython-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <!-- 自定义单细胞徽章 -->
+  <img src="https://img.shields.io/badge/Single--Cell-Scanpy%2FSeurat-4B0082?style=for-the-badge&logo=molecule&logoColor=white" />
+</div>
 
 ---
 
-## ✍️ Blog & Writing / 博客与写作
+### 📊 GitHub Analytics
 
-- 🧪 CSDN 博客（技术 & 笔记）：  
-  👉 [https://blog.csdn.net/weixin_70379932?type=blog](https://blog.csdn.net/weixin_70379932?type=blog)
+<div align="center">
+  <!-- 核心数据卡片 - 使用 radical 主题，视觉冲击力强 -->
+  <img src="https://github-readme-stats.vercel.app/api?username=zhaolong&show_icons=true&theme=radical&count_private=true&hide_border=true&include_all_commits=true" height="160" />
+  
+  <!-- 语言使用比例 -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhaolong&layout=compact&theme=radical&hide_border=true&langs_count=6" height="160" />
+</div>
 
-> 可以在 CSDN 上记录一些 AIDD / 计算生物 / 单细胞分析的心得，把这些文章和 GitHub 项目互相链接，会非常加分。
+<br/>
+
+<div align="center">
+  <!-- 贡献连击图 - 记录你的勤奋程度 -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zhaolong&theme=radical&hide_border=true" width="60%" />
+</div>
 
 ---
 
-## 📬 Contact / 联系我
+### 📫 Connect with Me
 
-- ✉️ Email：<a href="mailto:zhaolong7@mail2.sysu.edu.cn">zhaolong7@mail2.sysu.edu.cn</a>  
-- 🧾 CSDN： [weixin_70379932](https://blog.csdn.net/weixin_70379932?type=blog)
+<div align="center">
+  <!-- 邮箱 -->
+  <a href="mailto:zhaolong7@mail2.sysu.edu.cn">
+    <img src="https://img.shields.io/badge/Email-zhaolong7%40mail2.sysu.edu.cn-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  
+  <!-- CSDN -->
+  <a href="https://blog.csdn.net/weixin_70379932?type=blog">
+    <img src="https://img.shields.io/badge/CSDN-My_Blog-FC5531?style=flat-square&logo=rss&logoColor=white" />
+  </a>
+</div>
 
-> Feel free to reach out if you’d like to discuss AIDD, computational biology, or potential collaborations.
+<br/>
 
----
-
-<p align="center">
-  <i>Thanks for visiting my profile — welcome to connect and collaborate!</i>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=005826&height=80&section=footer" alt="Footer" />
+</div>

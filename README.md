@@ -36,7 +36,9 @@
 
 <table>
 <tr>
-<td width="60%">
+<td width="70%">
+
+### 👨‍🔬 About Me
 
 <p>Hi there! I am Zhaolong, a graduate student at Sun Yat-sen University.</p>
 <p>I am dedicated to decoding the mysteries of life sciences through Computational Methods.</p>
@@ -47,8 +49,9 @@
 </ul>
 <p><strong>"Data is the new microscope for biology."</strong></p>
 
+
 </td>
-<td width="40%" align="center">
+<td width="30%" align="center">
 <!-- DNA Helix Animation -->
 <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="80%" style="border-radius:10px;" alt="DNA Animation" />
 </td>

@@ -32,7 +32,7 @@
 </div>
 
 <!-- 5. Profile Section (English) -->
-# 🧬 Researcher Profile
+
 
 <table>
 <tr>
@@ -63,7 +63,7 @@
 <!-- 6. Scientific Metrics (English & Cleaned) -->
 <div align="center">
 
-### 📊 Scientific Metrics
+
 
 <!-- Row 1: Streaks and Top Langs -->
 <table>
@@ -88,7 +88,6 @@
 <!-- 7. Tech Stack (Arsenal) -->
 <div align="center">
 
-### 🛠️ Computational Arsenal
 
 <!-- Skill Icons -->
 <a href="https://skillicons.dev">

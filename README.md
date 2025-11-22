@@ -18,11 +18,9 @@
   <a href="https://blog.csdn.net/weixin_70379932?type=blog"><img src="https://img.shields.io/badge/CSDN-My_Blog-FC5531?style=flat-square&logo=rss&logoColor=white" /></a>&emsp;
   <a href="https://github.com/ZhaoLongSYSU"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" /></a>&emsp;
   <a href="https://www.sysu.edu.cn/"><img src="https://img.shields.io/badge/SYSU-Sun_Yat--sen_Univ-005826?style=flat-square&logo=google-scholar&logoColor=white" /></a>
-
 </div>
 
 <!-- 4. Snake Contribution Graph (Placeholder) -->
-<!-- Note: This snake graph requires a GitHub Action to update with your real data. Currently showing a demo. -->
 <br/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
@@ -33,7 +31,6 @@
 </div>
 
 <!-- 5. Profile Section -->
-
 <table>
 <tr>
 <td width="70%">
@@ -49,7 +46,6 @@
 </ul>
 <p><strong>"Data is the new microscope for biology."</strong></p>
 
-
 </td>
 <td width="30%" align="center">
 <!-- DNA Helix Animation -->
@@ -61,9 +57,8 @@
 <!-- Divider GIF -->
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- 6. Scientific Metrics (Updated to ZhaoLongSYSU) -->
+<!-- 6. Scientific Metrics (FIXED) -->
 <div align="center">
-
 
 <!-- Row 1: Streaks and Top Langs -->
 <table>
@@ -77,8 +72,9 @@
   </tr>
 </table>
 
-<!-- Row 2: Core Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=ZhaoLongSYSU&show_icons=true&theme=radical&count_private=true&hide_border=true&include_all_commits=true&custom_title=GitHub%20Research%20Contributions" width="85%" />
+<!-- Row 2: Core Stats (Fixed URL) -->
+<!-- Removed 'include_all_commits=true' to prevent timeouts -->
+<img src="https://github-readme-stats.vercel.app/api?username=ZhaoLongSYSU&show_icons=true&theme=radical&count_private=true&hide_border=true&custom_title=GitHub%20Research%20Contributions" width="85%" />
 
 </div>
 
@@ -87,7 +83,6 @@
 
 <!-- 7. Tech Stack (Arsenal) -->
 <div align="center">
-
 
 <!-- Skill Icons -->
 <a href="https://skillicons.dev">

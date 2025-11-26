@@ -57,10 +57,10 @@
 <!-- Divider GIF -->
 <img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- 6. Scientific Metrics (FIXED) -->
+<!-- 6. Scientific Metrics -->
 <div align="center">
 
-<!-- Row 1: Streaks and Top Langs -->
+<!-- Only keep the working stats: Streaks and Top Langs -->
 <table>
   <tr>
     <td>
@@ -71,11 +71,6 @@
     </td>
   </tr>
 </table>
-
-<!-- Row 2: Core Stats (High Stability Version) -->
-<!-- 1. Removed 'include_all_commits=true' to prevent timeout errors -->
-<!-- 2. Removed 'count_private=true' to prevent permission errors -->
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ZhaoLongSYSU&show_icons=true&theme=radical&hide_border=true" width="85%" />
 
 </div>
 

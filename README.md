@@ -73,8 +73,8 @@
 </table>
 
 <!-- Row 2: Core Stats (Fixed URL) -->
-<!-- Removed 'include_all_commits=true' to prevent timeouts -->
-<img src="https://github-readme-stats.vercel.app/api?username=ZhaoLongSYSU&show_icons=true&theme=radical&count_private=true&hide_border=true&custom_title=GitHub%20Research%20Contributions" width="85%" />
+<!-- Removed 'count_private=true' because public API cannot access private repos -->
+<img src="https://github-readme-stats.vercel.app/api?username=ZhaoLongSYSU&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&custom_title=GitHub%20Research%20Contributions" width="85%" />
 
 </div>
 

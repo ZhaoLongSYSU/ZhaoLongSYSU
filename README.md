@@ -75,7 +75,7 @@
 <!-- Row 2: Core Stats (High Stability Version) -->
 <!-- 1. Removed 'include_all_commits=true' to prevent timeout errors -->
 <!-- 2. Removed 'count_private=true' to prevent permission errors -->
-<img src="https://github-readme-stats.vercel.app/api?username=ZhaoLongSYSU&show_icons=true&theme=radical&hide_border=true&custom_title=GitHub%20Research%20Contributions" width="85%" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ZhaoLongSYSU&show_icons=true&theme=radical&hide_border=true" width="85%" />
 
 </div>
 

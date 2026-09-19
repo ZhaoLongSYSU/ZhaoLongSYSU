@@ -77,16 +77,6 @@ Multimodal deep learning for drug-target affinity prediction.
 
 ---
 
-## GitHub overview
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhaoLongSYSU&layout=compact&hide_border=true&langs_count=8&theme=transparent" height="160" alt="Most used languages" />
-
-</div>
-
----
-
 <div align="center">
 
 <sub>Computational Biology · AI · Molecular Medicine</sub>

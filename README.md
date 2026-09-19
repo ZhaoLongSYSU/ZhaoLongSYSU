@@ -2,7 +2,7 @@
 
 # Zhaolong
 
-### AI × Bioinformatics × Spatial Omics
+**Computational Biology · Artificial Intelligence · Spatial Multi-omics**
 
 Joint PhD Candidate in Molecular Medicine  
 **Sun Yat-sen University × Guangzhou National Laboratory**
@@ -16,44 +16,34 @@ Joint PhD Candidate in Molecular Medicine
 
 ---
 
-## About me
+## About
 
-I work at the intersection of **artificial intelligence, bioinformatics, and molecular medicine**, with a particular focus on computational methods for understanding biological regulation from multi-omics data.
+I work at the intersection of **artificial intelligence, bioinformatics, and molecular medicine**. My academic background spans **applied mathematics, machine learning, and computational biology**.
 
-My current research centers on:
+My ongoing research broadly focuses on:
 
-- **Spatial multi-omics** — integrating spatial chromatin accessibility and transcriptomic measurements.
-- **Cis-regulatory inference** — identifying and evaluating peak-to-gene regulatory relationships.
-- **Regulatory genomics** — connecting chromatin accessibility, gene expression, and 3D chromatin interactions.
-- **AI for drug discovery** — multimodal and structure-aware learning for drug-target affinity prediction.
-- **Robust benchmarking** — developing biologically grounded evaluation strategies for imbalanced and distance-biased regulatory prediction tasks.
-
-My background spans **applied mathematics, machine learning, and computational biology**.
+- **Spatial multi-omics**
+- **AI for drug discovery**
 
 ---
 
-## Current research
+## Selected publications
 
-### Spatial regulatory genomics
+### PocketDTA
 
-I am developing computational approaches for inferring **cis-regulatory peak-to-gene links from spatial ATAC–RNA data**.
+**PocketDTA: an advanced multimodal architecture for enhanced prediction of drug-target affinity from 3D structural data of target binding pockets**
 
-Current interests include:
+*Bioinformatics*
 
-- spatial neighborhood-aware regulatory inference;
-- distance-bias-corrected evaluation of peak-to-gene prediction;
-- developmental and tissue-specific regulatory programs;
-- validation with **Hi-C, HiChIP, PLAC-seq, Capture Hi-C, and HiCAR**;
-- interactive visualization of genomic links together with spatial ATAC/RNA signals.
+[Repository](https://github.com/ZhaoLongSYSU/PocketDTA)
 
-### AI-driven drug-target modeling
+### MDDTA
 
-My earlier work focused on multimodal representation learning for drug-target affinity prediction.
+Multimodal deep learning for drug-target affinity prediction.
 
-| Project | Focus | Publication |
-|---|---|---|
-| [**PocketDTA**](https://github.com/ZhaoLongSYSU/PocketDTA) | Multimodal drug-target affinity prediction using 3D target binding-pocket information | *Bioinformatics* |
-| [**MDDTA**](https://github.com/ZhaoLongSYSU/MDDTA) | Multimodal deep learning for drug-target affinity prediction | *IEEE Journal of Biomedical and Health Informatics* |
+*IEEE Journal of Biomedical and Health Informatics*
+
+[Repository](https://github.com/ZhaoLongSYSU/MDDTA)
 
 ---
 
@@ -61,28 +51,29 @@ My earlier work focused on multimodal representation learning for drug-target af
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
 
-**Bioinformatics:** Seurat · Signac · Scanpy · AnnData · single-cell and spatial omics workflows  
-**Modeling:** deep learning · graph learning · multimodal learning · statistical benchmarking  
-**Computing:** Linux · SLURM · high-performance computing · reproducible pipelines
+**Bioinformatics:** Seurat · Signac · Scanpy · AnnData  
+**Modeling:** deep learning · graph learning · multimodal learning  
+**Computing:** Linux · SLURM · high-performance computing
 
 ---
 
 ## Selected repositories
 
-- [**PocketDTA**](https://github.com/ZhaoLongSYSU/PocketDTA) — structure-aware multimodal drug-target affinity prediction.
-- [**MDDTA**](https://github.com/ZhaoLongSYSU/MDDTA) — multimodal DTA modeling.
-- Additional spatial-regulatory genomics tools and visualization resources are under active development.
+| Repository | Description |
+|---|---|
+| [**PocketDTA**](https://github.com/ZhaoLongSYSU/PocketDTA) | Multimodal drug-target affinity prediction with 3D target binding-pocket information |
+| [**MDDTA**](https://github.com/ZhaoLongSYSU/MDDTA) | Multimodal deep learning for drug-target affinity prediction |
 
 ---
 
@@ -90,7 +81,7 @@ My earlier work focused on multimodal representation learning for drug-target af
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhaoLongSYSU&layout=compact&hide_border=true&langs_count=8&theme=transparent" height="165" alt="Most used languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZhaoLongSYSU&layout=compact&hide_border=true&langs_count=8&theme=transparent" height="160" alt="Most used languages" />
 
 </div>
 
@@ -98,8 +89,6 @@ My earlier work focused on multimodal representation learning for drug-target af
 
 <div align="center">
 
-**Computational methods for understanding biological regulation**
-
-<sub>Profile maintained by Zhaolong · 2026</sub>
+<sub>Computational Biology · AI · Molecular Medicine</sub>
 
 </div>
